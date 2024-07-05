@@ -30,5 +30,5 @@ To run the Todo App locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
-   cd todo-app
+   git clone https://github.com/DRxStrange/ToDoApp.git
+   cd ToDoApp
